@@ -1,4 +1,4 @@
-# Swahili-News-Classification-Challange-Zindi
+# Swahili-News-Classification-Zindi-Challange
 
 wahili is spoken by 100-150 million people across East Africa. In Tanzania, it is one of two national languages (the other is English) and it is the official language of instruction in all schools. News in Swahili is an important part of the media sphere in Tanzania.
 
