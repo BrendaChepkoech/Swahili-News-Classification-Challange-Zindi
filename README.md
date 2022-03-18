@@ -13,7 +13,11 @@ Link https://zindi.africa/competitions/swahili-news-classification/data
 Your goal is to accurately classify each swahili news content into five specified categories below:
 
 Kitaifa (National)
+
 Kimataifa (International)
+
 Biashara (Business)
+
 Michezo (Sports)
+
 Burudani (Entertainment)
